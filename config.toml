@@ -1,0 +1,51 @@
+languageCode = "en-us"
+title = "shingt"
+theme = "hermit"
+rssLimit = 10
+enableEmoji = true
+pluralizelisttitles = false
+
+[author]
+  name = "shingt"
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  # description = ""
+  # images = [""]
+  themeColor = "#494f5c"
+
+  relatedPosts = false  # Add a related content section to all single posts page
+
+  code_copy_button = true # Turn on/off the code-copy-button for code-fields
+
+  # https://github.com/Track3/hermit#social-icons
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/_shingt"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/shingt"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/shingt/"
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "blog/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Profile"
+    url = "me/"
+    weight = 20
