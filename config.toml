@@ -1,3 +1,4 @@
+baseURL = "https://shingt.com/"
 languageCode = "en-us"
 title = "shingt"
 theme = "hermit"

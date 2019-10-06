@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "re-build vim with homebrew"
-date: 2013-02-17 17:41
+date: 2013-02-17 17:41:00 +0900
 comments: true
 categories: anything
 ---
