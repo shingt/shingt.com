@@ -3,7 +3,7 @@ title = "shingt (Shinichi Goto)"
 +++
 
 Software Engineer (Swift, Objective-C, Go, OpenCV, ML, C++, Ruby on Rails, Perl).
-Currently working at [Mercari, Inc.](https://mercari.com) in Japan.
+Currently working at [Mercari, Inc.](https://mercari.com) in Palo Alto.
 
 
 ## Works
