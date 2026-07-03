@@ -11,6 +11,7 @@ Software Engineer (Swift, Objective-C, TypeScript, Go, Ruby, Perl).
 * [Wantedly People](https://p.wantedly.com)
 * [Wantedly](https://itunes.apple.com/jp/app/wantedly-visit-zhuan-zhini/id804727886?mt=8)
 * [Tonica](https://itunes.apple.com/jp/app/tonica-%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%BC%E3%81%AE%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/id1003005644?mt=8)
+* [Winotti](https://apps.apple.com/jp/app/id6762049904)
 
 ## Presentations
 
